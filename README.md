@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a french **Python** developper.
+I'm a french **Python** student.
 
 ### :computer: Language :
 
