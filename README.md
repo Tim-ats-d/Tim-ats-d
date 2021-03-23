@@ -2,11 +2,11 @@
 
 I'm a french **Python** student.
 
-### :computer: Language :
+### :computer: Language:
 
 I code mainly in **Python**. I started learning **Ocaml**.
 
-#### :file_folder: Projects :
+#### :file_folder: Projects:
 
 The **projects** I work on:
 * [**Visual Dialog**](https://github.com/Tim-ats-d/Visual-dialog): A library to make easier **dialog box** in terminal.
